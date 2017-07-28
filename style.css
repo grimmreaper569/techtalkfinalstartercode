@@ -1,0 +1,21 @@
+body{
+    background-image:url(http://hiphopgoldenage.com/wp-content/uploads/2016/02/jc.png) 
+}
+#jcole{
+    float:right;
+    height:200px; 
+}
+#j{
+    height:200px 
+}
+h1{
+    text-align: center;
+}
+#humble{
+    text-align: center;
+}
+P{
+    text-align: center;
+    color:red;
+    font-size:200px;
+}
